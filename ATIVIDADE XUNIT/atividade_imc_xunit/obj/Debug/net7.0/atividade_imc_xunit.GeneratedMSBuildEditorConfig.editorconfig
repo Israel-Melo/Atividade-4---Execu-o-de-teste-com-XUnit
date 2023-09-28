@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = atividade_imc_xunit
+build_property.ProjectDir = D:\cursos\curso programdor Full stack\15 - Testes de Back-End - QO_FULLST_LOJ_222T19\04d - Atividade 4 - Execução de teste com XUnit\ATIVIDADE XUNIT\atividade_imc_xunit\
